@@ -2,9 +2,9 @@
 
 int main()
 {
-	std::cout << "Course: Scripting and Programming Application C867" << std::endl;
+	std::cout << "Add header data" << std::endl;
 	std::cout << "Language used: C++" << std::endl;
-	std::cout << "WGU ID: 011349281" << std::endl;
+	std::cout << "Add header data" << std::endl;
 	std::cout << "Name: Olga Odarenko" << std::endl << std::endl;
 
 	const std::string studentData[] = { 
